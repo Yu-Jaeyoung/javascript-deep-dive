@@ -1,0 +1,1 @@
+console.log(new Date('2023/7/27/23:30:10').getSeconds());

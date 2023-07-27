@@ -1,0 +1,1 @@
+console.log(new Date('2023/07/27').getDate());
