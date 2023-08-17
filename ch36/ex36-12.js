@@ -1,0 +1,1 @@
+const {lastName, firstName} = {firstName: 'Jaeyoung', lastName: 'Yu'};
