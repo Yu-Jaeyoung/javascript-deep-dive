@@ -1,1 +1,1 @@
-# javascript
+# javascript-deep-dive 
